@@ -1,2 +1,2 @@
 # Digital-Clock
-It is clock depicting real time.You can use it to check the time. 
+It is digital clock depicting real time.You can use it to check the time. 
