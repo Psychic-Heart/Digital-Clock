@@ -10,7 +10,12 @@ body{
     background-size: cover;
 
 }
-
+hr{
+    border-style: none none dotted;
+    border-color: black;
+    border-width: 7px;
+    width: 5%;
+  }
 h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -32,7 +37,7 @@ h2 {
 .clock span{
     width: 100px;
     height: 80px;
-    background: slateblue;
+    background: rgb(53, 145, 202);
     opacity: 0.8;
     color: azure;
     display: flex;
@@ -58,6 +63,6 @@ h2 {
     width: 60px;
     height: 30px;
     font-size: 20px;
-    background: darkgreen;
+    background: darkblue;
 }
 
