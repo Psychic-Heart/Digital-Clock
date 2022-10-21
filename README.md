@@ -1,2 +1,2 @@
 # Digital-Clock
-It is digital clock depicting real time.You can use it to check the time. 
+Digital clock showing real time. It is created using html, css and javascript.
