@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: sans-serif;
+    font-family: georgia;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,6 +38,7 @@ h2 {
     width: 100px;
     height: 80px;
     background: rgb(53, 145, 202);
+    border-color: black;
     opacity: 0.8;
     color: azure;
     display: flex;
